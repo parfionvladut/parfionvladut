@@ -11,7 +11,7 @@
 <b>SQL</b>
 -
 
-<b>Python</b>
+<b>🐍Python</b>
 -
 
 <b>🤖Machine Learning</b>

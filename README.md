@@ -20,7 +20,7 @@
 <b>👮Traffic Monitoring(CyberX)</b>
 -
 
-<b>🧰:Cybersecurity tools</b>
+<b>🧰Cybersecurity tools</b>
 -
 
 <h2>📝 Certifications</h2>

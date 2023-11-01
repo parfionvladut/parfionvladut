@@ -1,11 +1,20 @@
 <h1>Hi , I am Parfion Vladut. I am a programmer and a cybersecurity enthusiast: </h1>
 <h2> 👨‍💻Projects: </h2>
+
 <b>C</b>
+-
 <b>C++</b>
+-
 <b>SQL</b>
-<b>Machine Learning</b>
+-
+<b>🤖Machine Learning</b>
+-
 <b>Traffic Monitoring(CyberX)</b>
+-
+
 <b>Cybersecurity tools</b>
+-
+
 <!--
 **parfionvladut/parfionvladut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

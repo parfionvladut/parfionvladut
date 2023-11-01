@@ -9,12 +9,13 @@
 -
 <b>🤖Machine Learning</b>
 -
-<b>Traffic Monitoring(CyberX)</b>
+<b>👮Traffic Monitoring(CyberX)</b>
+-
+<b>🧰:Cybersecurity tools</b>
 -
 
-<b>Cybersecurity tools</b>
--
-
+<h2>📝 Certifications</h2>
+-[AttackIQ](https://www.credly.com/users/parfion-vladut/badges)
 <!--
 **parfionvladut/parfionvladut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

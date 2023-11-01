@@ -2,13 +2,13 @@
 
 <h2> 👨‍💻Projects: </h2>
 
-<b>C</b>
+<b>⚙️C</b>
 -
 
-<b>C++</b>
+<b>🚀C++</b>
 -
 
-<b>SQL</b>
+<b>🗄️SQL</b>
 -
 
 <b>🐍Python</b>

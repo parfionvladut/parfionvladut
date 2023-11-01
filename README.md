@@ -17,7 +17,7 @@
 <b>🤖Machine Learning</b>
 -
 
-<b>📊🔎Traffic Monitoring(CyberX)</b>
+<b>📊🔍Traffic Monitoring(CyberX)</b>
 -
 
 <b>🧰Cybersecurity tools</b>

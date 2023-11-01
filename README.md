@@ -1,4 +1,4 @@
-<h1>Hi , I am Parfion Vladut. I am a programmer and a cybersecurity enthusiast:. </h1>>
+<h1>Hi , I am Parfion Vladut. I am a programmer and a cybersecurity enthusiast: </h1>
 <h2> 👨‍💻Projects: </h2>
 <b>C</b>
 <b>C++</b>

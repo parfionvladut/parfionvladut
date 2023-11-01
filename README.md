@@ -1,20 +1,27 @@
 <h1>Hi , I am Parfion Vladut. I am a programmer and a cybersecurity enthusiast: </h1>
+
 <h2> 👨‍💻Projects: </h2>
 
 <b>C</b>
 -
+
 <b>C++</b>
 -
+
 <b>SQL</b>
 -
+
 <b>🤖Machine Learning</b>
 -
+
 <b>👮Traffic Monitoring(CyberX)</b>
 -
+
 <b>🧰:Cybersecurity tools</b>
 -
 
 <h2>📝 Certifications</h2>
+
 - [AttackIQ](https://www.credly.com/users/parfion-vladut/badges)
 
 

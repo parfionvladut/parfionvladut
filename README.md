@@ -6,6 +6,7 @@
 -
 
 <b>🚀C++</b>
+
 - [ATM simulation](https://github.com/parfionvladut/atm-software/tree/master)
 
 <b>🗄️SQL</b>
@@ -21,8 +22,10 @@
 -
 
 <b>🧰Cybersecurity tools</b>
+
 - [Analasys tool to identify financial fraud](https://github.com/parfionvladut/Digital-proof-abstraction)
 
 <h2>📝 Certifications</h2>
+
 - [AttackIQ](https://www.credly.com/users/parfion-vladut/badges)
 

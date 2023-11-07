@@ -24,6 +24,5 @@
 - [Analasys tool to identify financial fraud](https://github.com/parfionvladut/Digital-proof-abstraction)
 
 <h2>📝 Certifications</h2>
-
 - [AttackIQ](https://www.credly.com/users/parfion-vladut/badges)
 

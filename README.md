@@ -6,7 +6,7 @@
 -
 
 <b>🚀C++</b>
--(ATM simulation)[https://github.com/parfionvladut/atm-software/tree/master]
+-[ATM simulation](https://github.com/parfionvladut/atm-software/tree/master)
 
 <b>🗄️SQL</b>
 -

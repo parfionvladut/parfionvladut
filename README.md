@@ -29,4 +29,6 @@
 <h2>📝 Certifications</h2>
 
 - [AttackIQ](https://www.credly.com/users/parfion-vladut/badges)
+- Proinfo - Machine learning
+- CyberX
 

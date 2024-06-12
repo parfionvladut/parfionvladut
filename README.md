@@ -18,7 +18,8 @@
 
 <b>🤖Machine Learning</b>
 - [Pattern recognition app](https://github.com/parfionvladut/Pattern-recognition/tree/main)
-- [Other ML scripts]()
+- [Other ML scripts](https://github.com/parfionvladut/Ml-appps)
+- [Proinfo antivirus]()
 
 <b>📊🔍CyberX</b>
 

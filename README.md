@@ -9,10 +9,9 @@
 
 - [C programs](https://github.com/parfionvladut/C-programs)
 
-- [ATM simulation](https://github.com/parfionvladut/atm-software/tree/master)
 
 <b>🗄️SQL</b>
--
+- [PHP apps]()
 
 <b>🐍Python</b>
 -

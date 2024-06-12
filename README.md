@@ -3,7 +3,7 @@
 <h2> 👨‍💻Projects: </h2>
 
 <b>⚙️C</b>
--
+- [C programs](https://github.com/parfionvladut/C-programs)
 
 <b>🚀C++</b>
 

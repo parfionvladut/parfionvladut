@@ -11,7 +11,7 @@
 
 
 <b>🗄️SQL</b>
-- [PHP apps](https://github.com/parfionvladut/PHP-app)
+- [PHP script](https://github.com/parfionvladut/PHP-app)
 
 <b>🐍Python</b>
 - [Python scripts](https://github.com/parfionvladut/Python-scripts)

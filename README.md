@@ -8,7 +8,7 @@
 <b>🚀C++</b>
 
 - [C programs](https://github.com/parfionvladut/C-programs)
-- [C Calculator]()
+- [C Calculator](https://github.com/parfionvladut/C-calculator)
 
 
 <b>🗄️SQL</b>

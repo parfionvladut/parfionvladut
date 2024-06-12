@@ -17,7 +17,7 @@
 - [Python scripts](https://github.com/parfionvladut/Python-scripts)
 
 <b>🤖Machine Learning</b>
-- [Pattern recognition]()
+- [Pattern recognition](https://github.com/parfionvladut/Pattern-recognition/tree/main)
 
 <b>📊🔍CyberX</b>
 

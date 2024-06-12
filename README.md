@@ -2,10 +2,12 @@
 
 <h2> 👨‍💻Projects: </h2>
 
-<b>⚙️C</b>
-- [C programs](https://github.com/parfionvladut/C-programs)
+
+
 
 <b>🚀C++</b>
+
+- [C programs](https://github.com/parfionvladut/C-programs)
 
 - [ATM simulation](https://github.com/parfionvladut/atm-software/tree/master)
 

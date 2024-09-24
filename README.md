@@ -21,7 +21,7 @@
 - [Pattern recognition app](https://github.com/parfionvladut/Pattern-recognition/tree/main)
 - [Other ML scripts](https://github.com/parfionvladut/Ml-appps)
 - [Proinfo antivirus](https://github.com/parfionvladut/Proinfo)
-- [LLM training](https://github.com/parfionvladut/LLM-Finetuning.git)
+- [LLM finetuning](https://github.com/parfionvladut/LLM-Finetuning.git)
 
 <b>📊🔍CyberX</b>
 

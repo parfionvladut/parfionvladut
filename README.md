@@ -16,6 +16,7 @@
 
 <b>🐍Python</b>
 - [Python scripts](https://github.com/parfionvladut/Python-scripts)
+- [Breckner inverter pooling](https://github.com/parfionvladut/Breckner-8.2kW-Hybrid-Inverter-Cable-Connect)
 
 <b>🤖Machine Learning</b>
 - [Pattern recognition app](https://github.com/parfionvladut/Pattern-recognition/tree/main)
